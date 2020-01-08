@@ -839,7 +839,7 @@ See Supported Features by platform [here](/supported-features.md)
 [Back to contents](#contents)
 ## Why is it Called Lottie?
 Lottie is named after a German film director and the foremost pioneer of silhouette animation. Her best known films are The Adventures of Prince Achmed (1926) – the oldest surviving feature-length animated film, preceding Walt Disney's feature-length Snow White and the Seven Dwarfs (1937) by over ten years.
-[The art of Lotte Reineger](https://www.youtube.com/watch?v=LvU55CUw5Ck&feature=youtu.be)
+[The art of Lotte Reiniger](https://www.youtube.com/watch?v=LvU55CUw5Ck&feature=youtu.be)
 
 [Back to contents](#contents)
 ## Contributing
